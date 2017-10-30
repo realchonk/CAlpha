@@ -14,3 +14,5 @@ CAlpha -i (input)
 CAlpha (input)
 - or linking a couple of compiled code:
 CAlpha [-o (output)] -link (File1) (File2)...
+# Informations
+This project is fully written in std-java-lib, without any other library!

@@ -1,5 +1,5 @@
 # CAlpha
-I'm developing a small language in Java, that is C-oriented.
+I'm developing a small language in Java, that is C-likes.
 # Requirements
 You need the Java JRE 1.8 or higher to start the CAlpha.exe file. 
 # Executing
